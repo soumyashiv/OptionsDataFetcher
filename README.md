@@ -1,4 +1,6 @@
-# HOW TO USE — NSE & BSE Option Chain Fetchers
+# OptionFetcher
+
+Production-ready NSE & BSE Option Chain Polling Scripts.
 
 > Powered by the `indiaopt` package — an enterprise-grade library for Indian stock market data.
 
